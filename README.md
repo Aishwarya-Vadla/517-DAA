@@ -42,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aishwarya-Vadla/517/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Aishwarya-Vadla/517/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Aishwarya-Vadla/517/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
