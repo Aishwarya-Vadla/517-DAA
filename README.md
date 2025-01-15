@@ -49,9 +49,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aishwarya-Vadla/517/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Aishwarya-Vadla/517/tree/master/0162-find-peak-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Aishwarya-Vadla/517/tree/master/0201-bitwise-and-of-numbers-range) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Aishwarya-Vadla/517/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
