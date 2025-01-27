@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aishwarya-Vadla/517/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/Aishwarya-Vadla/517/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/Aishwarya-Vadla/517/tree/master/0162-find-peak-element) |
 ## Binary Search
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Aishwarya-Vadla/517/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aishwarya-Vadla/517/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
