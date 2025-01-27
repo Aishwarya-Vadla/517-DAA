@@ -16,11 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aishwarya-Vadla/517/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aishwarya-Vadla/517/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aishwarya-Vadla/517/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aishwarya-Vadla/517/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aishwarya-Vadla/517/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aishwarya-Vadla/517/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Aishwarya-Vadla/517/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
