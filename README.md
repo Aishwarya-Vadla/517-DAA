@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Aishwarya-Vadla/517/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Aishwarya-Vadla/517/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Aishwarya-Vadla/517/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Aishwarya-Vadla/517/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Aishwarya-Vadla/517/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishwarya-Vadla/517/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aishwarya-Vadla/517/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Aishwarya-Vadla/517/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Aishwarya-Vadla/517/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
@@ -94,4 +96,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishwarya-Vadla/517/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Aishwarya-Vadla/517/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
