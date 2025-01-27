@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishwarya-Vadla/517/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Aishwarya-Vadla/517/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aishwarya-Vadla/517/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Aishwarya-Vadla/517/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aishwarya-Vadla/517/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Aishwarya-Vadla/517/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/Aishwarya-Vadla/517/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/Aishwarya-Vadla/517/tree/master/0162-find-peak-element) |
 ## Binary Search
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aishwarya-Vadla/517/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Aishwarya-Vadla/517/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aishwarya-Vadla/517/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
